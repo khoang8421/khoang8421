@@ -1,4 +1,9 @@
-## Hi there 👋
+##👋 About Me
+Hey, I’m Kyle, a UCLA student studying Statistics and Data Science.
+
+I’m learning data science by actually building projects instead of just watching tutorials. Right now I’m focused on Python, data analysis, and getting into machine learning.
+
+This repo is one of the projects I’ve worked on while figuring things out.
 
 <!--
 **khoang8421/khoang8421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
