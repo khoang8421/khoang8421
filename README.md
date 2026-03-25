@@ -1,4 +1,5 @@
 ##👋 About Me
+
 Hey, I’m Kyle, a UCLA student studying Statistics and Data Science.
 
 I’m learning data science by actually building projects instead of just watching tutorials. Right now I’m focused on Python, data analysis, and getting into machine learning.
